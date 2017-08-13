@@ -1,1 +1,1 @@
-console.log('hello world');
+import fooString from './foo.js';
