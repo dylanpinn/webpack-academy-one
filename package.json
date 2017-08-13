@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/dylanpinn/webpack-academy-one#readme",
   "devDependencies": {
+    "file-loader": "^0.11.2",
     "webpack": "^3.5.4"
   }
 }
