@@ -1,5 +1,7 @@
 # Webpack Academy: The Core Concepts
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/dylanpinn/webpack-academy-the-core-concepts.svg)](https://greenkeeper.io/)
+
 ## Topics
 
 - Installation
