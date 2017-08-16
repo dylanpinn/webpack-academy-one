@@ -1,7 +1,7 @@
 {
-  "name": "webpack-academy-one",
+  "name": "webpack-academy-the-core-concepts",
   "version": "1.0.0",
-  "description": "",
+  "description": "Webpack Academy: The Core Concepts course",
   "main": "index.js",
   "scripts": {
     "test": "npm build",
